@@ -1,6 +1,0 @@
----
-- hosts: localhost
-  tasks:
-  - import_role:
-      name: aapqe.test_collection.tldr
-      
